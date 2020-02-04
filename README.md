@@ -11,3 +11,5 @@ Some of the problems to consider include the following:
 * A user is depicted as a vertex.
 * A retweet is depicted as a directed edge.
 * Greedy approach will be used to find the "sufficiently small set" of users.
+
+I coded in **Java**
